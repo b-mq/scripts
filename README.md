@@ -1,4 +1,4 @@
-scripts
+Scripts
 =======
 
-collection of scripts of different languages
+Collection of scripts in different languages

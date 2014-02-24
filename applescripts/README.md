@@ -1,11 +1,12 @@
 Applescripts
 ======================
-
-#Collection of Applescripts
+Collection of Applescripts
 
 ## ToggleAudioOutputAirplay
 Simple Applescript to toggle between "Internal Speakers" of your Mac and external Airplay device
-Note: If your Airplay device name does not start with "Zeppelin", just change the string in line 9 to the name of your device
+
+Note: If your Airplay device name does not start with "Zeppelin", just change the string in line 7 to the name of your device
+
 ```applescript
 tell application "System Preferences"
 	reveal anchor "output" of pane id "com.apple.preference.sound"
